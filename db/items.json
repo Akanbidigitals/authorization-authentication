@@ -1,0 +1,5 @@
+[
+  { "name": "spag", "price": "300", "size": "small", "id": 1 },
+  { "name": "spag", "price": "300", "size": "small", "id": 2 },
+  { "name": "tomato", "price": "15000", "size": "large", "id": 3 }
+]

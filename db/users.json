@@ -1,0 +1,26 @@
+[
+  {
+    "username": "akanbi",
+    "password": "akanb123",
+    "api_key": "akanbi",
+    "user_type": "admin"
+  },
+  {
+    "username": "mubarak",
+    "password": "muna123",
+    "api_key": "mubarak_muna123",
+    "user_type": "admin"
+  },
+  {
+    "username": "basirat",
+    "password": "adebimpe111",
+    "api_key": "basirat_adebimpe111",
+    "user_type": "user"
+  },
+  {
+    "username": "emmanuel",
+    "password": "emion1234",
+    "api_key": "emmanuel_emion1234",
+    "user_type": "user"
+  }
+]
